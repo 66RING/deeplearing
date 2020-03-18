@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1510a3ef-dd6b-4e1b-a20e-fc91923e000b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Tensorflow+OpenCv" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vp8gGuf2wSuHuArMRXUJTVlGBx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spider" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.gan_train">
+    <configuration name="CIFAR10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tensorflow+OpenCv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kerasAPI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kerasAPI/CIFAR10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cifar100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tensorflow+OpenCv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cifar100" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cifar100/cifar100.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fasion_mnist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tensorflow+OpenCv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fasion_mnist" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fasion_mnist/fasion_mnist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gan_train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tensorflow+OpenCv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GAN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GAN/gan_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sentiment_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tensorflow+OpenCv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RNN_instance" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RNN_instance/sentiment_analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.gan_train" />
+        <item itemvalue="Python.sentiment_analysis" />
+        <item itemvalue="Python.cifar100" />
+        <item itemvalue="Python.fasion_mnist" />
+        <item itemvalue="Python.CIFAR10" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1510a3ef-dd6b-4e1b-a20e-fc91923e000b" name="Default Changelist" comment="" />
+      <created>1577938786433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577938786433</updated>
+      <workItem from="1577938795137" duration="15525000" />
+      <workItem from="1578018819072" duration="6835000" />
+      <workItem from="1578057926398" duration="2341000" />
+      <workItem from="1578061170744" duration="1153000" />
+      <workItem from="1578111124148" duration="82000" />
+      <workItem from="1578111596893" duration="15087000" />
+      <workItem from="1578802089809" duration="62000" />
+      <workItem from="1578836082480" duration="2349000" />
+      <workItem from="1578838472009" duration="1706000" />
+      <workItem from="1578840193596" duration="1171000" />
+      <workItem from="1578877051577" duration="433000" />
+      <workItem from="1578900463586" duration="3164000" />
+      <workItem from="1578918266636" duration="14000" />
+      <workItem from="1578978261340" duration="857000" />
+      <workItem from="1579701904229" duration="2341000" />
+      <workItem from="1580115933081" duration="13000" />
+      <workItem from="1580627313364" duration="8305000" />
+      <workItem from="1580796292486" duration="25000" />
+      <workItem from="1580796427716" duration="3000" />
+      <workItem from="1580796924257" duration="1283000" />
+      <workItem from="1580798860923" duration="1753000" />
+      <workItem from="1580878124626" duration="16000" />
+      <workItem from="1580878188351" duration="2737000" />
+      <workItem from="1580961362930" duration="552000" />
+      <workItem from="1580993409954" duration="46000" />
+      <workItem from="1581239884739" duration="266000" />
+      <workItem from="1581602961706" duration="30000" />
+      <workItem from="1581603007847" duration="1238000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="578" y="218" key="#Notifications" timestamp="1580633609586">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state x="578" y="218" key="#Notifications/0.0.2560.1600@0.0.2560.1600" timestamp="1580633609586" />
+    <state x="184" y="112" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577939275463">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1577939275463" />
+    <state x="988" y="605" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581239910334">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state x="988" y="605" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1600@0.0.2560.1600" timestamp="1581239910334" />
+    <state x="901" y="375" key="FileChooserDialogImpl" timestamp="1580797469767">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state x="507" y="211" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1578118484384" />
+    <state x="901" y="375" key="FileChooserDialogImpl/0.0.2560.1600@0.0.2560.1600" timestamp="1580797469767" />
+    <state width="2488" height="450" key="GridCell.Tab.0.bottom" timestamp="1581604246400">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state width="1398" height="238" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578270385801" />
+    <state width="2488" height="450" key="GridCell.Tab.0.bottom/0.0.2560.1600@0.0.2560.1600" timestamp="1581604246400" />
+    <state width="2488" height="450" key="GridCell.Tab.0.center" timestamp="1581604246400">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state width="1398" height="238" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578270385800" />
+    <state width="2488" height="450" key="GridCell.Tab.0.center/0.0.2560.1600@0.0.2560.1600" timestamp="1581604246400" />
+    <state width="2488" height="450" key="GridCell.Tab.0.left" timestamp="1581604246399">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state width="1398" height="238" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578270385799" />
+    <state width="2488" height="450" key="GridCell.Tab.0.left/0.0.2560.1600@0.0.2560.1600" timestamp="1581604246399" />
+    <state width="2488" height="450" key="GridCell.Tab.0.right" timestamp="1581604246400">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state width="1398" height="238" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578270385800" />
+    <state width="2488" height="450" key="GridCell.Tab.0.right/0.0.2560.1600@0.0.2560.1600" timestamp="1581604246400" />
+    <state x="393" y="158" key="SettingsEditor" timestamp="1580961878943">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1578118494924" />
+    <state x="393" y="158" key="SettingsEditor/0.0.2560.1600@0.0.2560.1600" timestamp="1580961878943" />
+    <state x="941" y="627" key="com.intellij.ide.util.TipDialog" timestamp="1580796302397">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state x="941" y="627" key="com.intellij.ide.util.TipDialog/0.0.2560.1600@0.0.2560.1600" timestamp="1580796302397" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1578120963631">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1578120963631" />
+    <state x="440" y="709" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1578836141586">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state x="440" y="709" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.2560.1600@0.0.2560.1600" timestamp="1578836141586" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Tensorflow_OpenCv$himmelblau.coverage" NAME="himmelblau Coverage Results" MODIFIED="1578122654346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tensorflow_OpenCv$fasion_mnist.coverage" NAME="fasion_mnist Coverage Results" MODIFIED="1580633072235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fasion_mnist" />
+    <SUITE FILE_PATH="coverage/Tensorflow_OpenCv$cifar100.coverage" NAME="cifar100 Coverage Results" MODIFIED="1580878200595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cifar100" />
+    <SUITE FILE_PATH="coverage/Tensorflow_OpenCv$gan_train.coverage" NAME="gan_train Coverage Results" MODIFIED="1581603682009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GAN" />
+    <SUITE FILE_PATH="coverage/Tensorflow_OpenCv$mnist_learning.coverage" NAME="mnist_learning Coverage Results" MODIFIED="1578018995006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mnist_exp" />
+    <SUITE FILE_PATH="coverage/Tensorflow_OpenCv$sentiment_analysis.coverage" NAME="sentiment_analysis Coverage Results" MODIFIED="1581239986924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN_instance" />
+    <SUITE FILE_PATH="coverage/Tensorflow_OpenCv$compile_fit.coverage" NAME="compile_fit Coverage Results" MODIFIED="1578142642976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kerase_compile&amp;fit" />
+    <SUITE FILE_PATH="coverage/Tensorflow_OpenCv$CIFAR10.coverage" NAME="CIFAR10 Coverage Results" MODIFIED="1578978843520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kerasAPI" />
+  </component>
+</project>
